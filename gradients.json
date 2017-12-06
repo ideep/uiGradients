@@ -1,5 +1,9 @@
 [
-     {
+    {
+        "name": "greenish",
+        "colors": ["#00C15B", "#F4F4F4"]
+    },
+    {
         "name": "Mango",
         "colors": ["#ffe259", "#ffa751"]
     },
